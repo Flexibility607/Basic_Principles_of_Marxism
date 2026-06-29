@@ -1,6 +1,8 @@
-# 马克思主义基本原理复习资料
+# Basic_Principles_of_Marxism
 
-本仓库整理了《马克思主义基本原理》复习用 PDF 资料，供期末复习时按需查看和打印。
+《马克思主义基本原理》期末复习资料整理，包含公共复习课件整理版、全书思维导图与补充资料，供同学们按需查看和打印。
+
+A collection of review materials for Basic Principles of Marxism, including public review slides, a full-book mind map, and supplementary notes for exam preparation.
 
 ## 文件说明
 
